@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <script src="js/jquery-1.8.3.min.js"></script>
+        <script src="js/animate-gradient.js"></script>
+        <style>
+            div {
+                height: 500px;
+                width:500px;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+        </div>
+        <script>
+            $("div").css("background", "-webkit-linear-gradient(rgb(255,255,255), rgb(0,0,0))").click(function() {
+                var c1 = [Math.floor(100 * Math.random()+156),
+                          Math.floor(100 * Math.random()+156),
+                          Math.floor(100 * Math.random()+156)];
+
+                var c2 = [Math.floor(100 * Math.random()+156),
+                          Math.floor(100 * Math.random()+156),
+                          Math.floor(100 * Math.random()+156)];
+
+                $.animateGradient($(this), c1, c2);
+            });
+        </script>
+</body>
