@@ -80,25 +80,6 @@ There are few ways to get help:
 
 
 
-## :memo: Documentation
-
-
-### `$()`
-==================================================
-    «             SIMULAREA RAZELOR VERZI            »
-    ==================================================
-    « Author: Ionica Bizau                           »
-    « COPYRIGHT (C) 2013 IONICA BIZAU                »
-    « UNDER GNU LICENSE                              »
-    ==================================================
-
-### `start()`
-===========================================
-                START, RESET FUNCTIONS
-    ===========================================
-
-
-
 
 
 
