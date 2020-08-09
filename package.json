@@ -1,0 +1,39 @@
+{
+  "name": "green-flash-simulation-app",
+  "version": "1.0.0",
+  "description": "A simulation of green flash phenomenon created in HTML, CSS and JavaScript.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/Green-flash.git"
+  },
+  "keywords": [
+    "sunset",
+    "green",
+    "light"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/Green-flash/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/Green-flash#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ]
+}
