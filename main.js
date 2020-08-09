@@ -91,7 +91,7 @@ function start(callback) {
                         }, 500);
                     }, 1000);
                 })
-            }, 6000);
+            }, 8000);
             sun.animate({"margin": "250px 10px 10px 850px" }, 8000, "linear", function () {
             });
         });
