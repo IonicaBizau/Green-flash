@@ -1,6 +1,6 @@
 {
   "name": "green-flash-simulation-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simulation of green flash phenomenon created in HTML, CSS and JavaScript.",
   "main": "lib/index.js",
   "scripts": {
@@ -32,6 +32,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
